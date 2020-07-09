@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Galada&display=swap');
+
+body{
+	background-color: #d4f1ff;
+	font-family: verdana, helvetica, arial, sans-serif;
+color: #333333;
+} 
+
+#anaCizim {
+	width: 150px;
+}
+
+.mavi-buyuk-yazi{
+	color:#476cff;
+	font-size: 24px;
+
+
+}
+h1 {font-family: 'Galada', cursive;
+
+}
+
+section{
+	margin: 16px;
+	border: 1px solid white;
+	padding:16px;
+
+}
+
